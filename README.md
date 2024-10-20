@@ -44,12 +44,9 @@ This project aims to improve the lead conversion rate by building a logistic reg
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/x-education-lead-prediction.git
-   cd x-education-lead-prediction ```
+   https://github.com/pkkk19/Lead-Scoring-Case-Study.git ```
 2. **Dependencies**:
   - Ensure that you have Python installed along with the necessary libraries. Install dependencies using:
-    ```bash
-    pip install -r requirements.txt```
 3.**Run the Model**:
   - Execute the Jupyter Notebook to preprocess the data, build the model, and evaluate the results.
 
