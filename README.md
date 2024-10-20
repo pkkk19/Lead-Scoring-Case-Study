@@ -55,10 +55,10 @@ This project aims to improve the lead conversion rate by building a logistic reg
 
 # Results
 
-  -The logistic regression model successfully assigned lead scores to potential customers, with high   conversion probabilities identified.
-  -The model’s sensitivity and accuracy were in line with the company’s goal of achieving a lead conversion rate of around 80%.
+  - The logistic regression model successfully assigned lead scores to potential customers, with high   conversion probabilities identified.
+  - The model’s sensitivity and accuracy were in line with the company’s goal of achieving a lead conversion rate of around 80%.
 
 # Editing and Contributions
   - Reporting Issues: If you encounter any bugs or issues, please create an issue on GitHub under the Issues tab.
-  -Contributing: Contributions are welcome! Feel free to submit pull requests to improve the model or add features.
-  -Collaboration: For significant changes or new features, it's recommended to open a discussion to ensure smooth collaboration.
+  - Contributing: Contributions are welcome! Feel free to submit pull requests to improve the model or add features.
+  - Collaboration: For significant changes or new features, it's recommended to open a discussion to ensure smooth collaboration.
