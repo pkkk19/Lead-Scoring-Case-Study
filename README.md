@@ -44,7 +44,8 @@ This project aims to improve the lead conversion rate by building a logistic reg
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/pkkk19/Lead-Scoring-Case-Study.git ```
+   https://github.com/pkkk19/Lead-Scoring-Case-Study.git```
+   
 2. **Dependencies**:
   - Ensure that you have Python installed along with the necessary libraries. Install dependencies using:
 3.**Run the Model**:
